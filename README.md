@@ -15,13 +15,14 @@ This was my first time using KiCAD, and actually designing a circuit board, whic
 
 BOM: 
 - 9x Cherry MX Switches
-- 1x XIAO RP2040
 - 9x Blank DSA Keycaps (black if available please)
+- 1x XIAO RP2040
+- 1x 0.91" OLED (GND-VCC-SCL-SDA)
+- 1x EC11 Rotary Encoder
 - 4x M3x16 Screws
 - 4x M3x5x4mm Heatset Inserts
-- 1x EC11 Rotary encoders
 - 9x Through-hole 1N4148 Diodes
-- 1x 0.91" OLED (GND-VCC-SCL-SDA)
+- 1x Case (2 parts, BASE and LID, black please)
 
 Others:
 - KMK Firmware
