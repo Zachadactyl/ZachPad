@@ -9,7 +9,7 @@ I wanted to create my own sort of "stream deck" that I could also use for editin
 
 ### Challenges
 
-This was my first time using KiCAD, and actually designing a circuit board, which was not too much of a challenge but DEFINATELY something totally new. I watched so many tutorials and guides and did a TON of googling. I also pushed lots of random buttons to see if they did what I wanted. Usually not... I am used to Blender 3D so the Fusion 360 keybinds continually annoy me, but I got used to it and managed to crteate something I am incredibly proud of.
+This was my first time using KiCAD, and actually designing a circuit board, which was not too much of a challenge but DEFINATELY something totally new. I watched so many tutorials and guides and did a TON of googling. I also pushed lots of random buttons to see if they did what I wanted. Usually not... I am used to Blender 3D so the Fusion 360 keybinds continually annoy me, but I got used to it and managed to crteate something I am incredibly proud of. The tilted "window" for the display took hours and was incredibly frustrating but we got there!
 
 ### Specifications
 
