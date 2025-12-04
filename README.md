@@ -1,6 +1,6 @@
 # ZachroPad is here!
 I finished v1 of my macropad, and I call it the ZachroPad!
-![image](https://github.com/Zachadactyl/ZachPad/blob/main/assets/case.png)  
+![image](https://github.com/Zachadactyl/ZachPad/blob/main/assets/final.png)  
 
 
 ### Inspiration
