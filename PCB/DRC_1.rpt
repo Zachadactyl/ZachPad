@@ -1,0 +1,178 @@
+** Drc report for ZachroPad.kicad_pcb **
+** Created on 2025-12-04T09:52:52-0700 **
+
+** Found 42 DRC violations **
+[shorting_items]: Items shorting two nets (nets +3V3 and GND)
+    Local override; error
+    @(126.0000 mm, 77.2400 mm): PTH pad 12 [+3V3] of U1
+    @(126.3003 mm, 78.1030 mm): Track [GND] on F.Cu, length 0.8806 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0610 mm)
+    Rule: netclass 'Default'; error
+    @(143.4520 mm, 82.9216 mm): Track [Net-(U1-GPIO1/RX)] on B.Cu, length 1.6033 mm
+    @(142.0750 mm, 82.3200 mm): Pad 5 [Net-(OL1-SDA)] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0010 mm)
+    Rule: netclass 'Default'; error
+    @(140.6597 mm, 83.1830 mm): Track [Net-(U1-GPIO1/RX)] on B.Cu, length 2.5309 mm
+    @(142.0750 mm, 82.3200 mm): Pad 5 [Net-(OL1-SDA)] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0010 mm)
+    Rule: netclass 'Default'; error
+    @(126.0000 mm, 77.2400 mm): PTH pad 12 [+3V3] of U1
+    @(125.4197 mm, 78.1030 mm): Track [GND] on F.Cu, length 0.8806 mm
+[shorting_items]: Items shorting two nets (nets Net-(U1-GPIO1{slash}RX) and Net-(OL1-SDA))
+    Local override; error
+    @(143.1906 mm, 83.1830 mm): Track [Net-(U1-GPIO1/RX)] on B.Cu, length 0.3696 mm
+    @(142.0750 mm, 82.3200 mm): Pad 5 [Net-(OL1-SDA)] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0610 mm)
+    Rule: netclass 'Default'; error
+    @(141.2400 mm, 82.3200 mm): PTH pad 5 [Net-(OL1-SDA)] of U1
+    @(142.1630 mm, 83.8057 mm): Track [Net-(D7-K)] on F.Cu, length 5.7027 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0010 mm)
+    Rule: netclass 'Default'; error
+    @(140.6597 mm, 83.1830 mm): Track [Net-(U1-GPIO1/RX)] on B.Cu, length 2.5309 mm
+    @(141.2400 mm, 82.3200 mm): PTH pad 5 [Net-(OL1-SDA)] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1780 mm)
+    Rule: netclass 'Default'; error
+    @(124.7970 mm, 78.7257 mm): Track [GND] on F.Cu, length 0.8806 mm
+    @(126.0000 mm, 77.2400 mm): PTH pad 12 [+3V3] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0610 mm)
+    Rule: netclass 'Default'; error
+    @(141.2400 mm, 79.7800 mm): PTH pad 4 [Net-(U1-GPIO29/ADC3/A3)] of U1
+    @(142.1630 mm, 83.8057 mm): Track [Net-(D7-K)] on F.Cu, length 5.7027 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1811 mm)
+    Rule: netclass 'Default'; error
+    @(137.9434 mm, 85.8992 mm): Track [Net-(U1-GPIO1/RX)] on B.Cu, length 3.8413 mm
+    @(142.0750 mm, 82.3200 mm): Pad 5 [Net-(OL1-SDA)] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0140 mm)
+    Rule: netclass 'Default'; error
+    @(125.1650 mm, 79.7800 mm): Pad 11 [Net-(U1-GPIO3/MOSI)] of U1 on B.Cu
+    @(123.8240 mm, 80.6560 mm): Track [Net-(U1-GPIO29/ADC3/A3)] on B.Cu, length 16.2000 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1586 mm)
+    Rule: netclass 'Default'; error
+    @(125.4197 mm, 80.6430 mm): Track [GND] on F.Cu, length 0.8806 mm
+    @(126.0000 mm, 79.7800 mm): PTH pad 11 [Net-(U1-GPIO3/MOSI)] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0010 mm)
+    Rule: netclass 'Default'; error
+    @(126.3003 mm, 80.6430 mm): Track [GND] on F.Cu, length 0.8806 mm
+    @(126.0000 mm, 79.7800 mm): PTH pad 11 [Net-(U1-GPIO3/MOSI)] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0140 mm)
+    Rule: netclass 'Default'; error
+    @(126.0000 mm, 79.7800 mm): PTH pad 11 [Net-(U1-GPIO3/MOSI)] of U1
+    @(123.8240 mm, 80.6560 mm): Track [Net-(U1-GPIO29/ADC3/A3)] on B.Cu, length 16.2000 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1780 mm)
+    Rule: netclass 'Default'; error
+    @(137.9434 mm, 85.8992 mm): Track [Net-(U1-GPIO1/RX)] on B.Cu, length 3.8413 mm
+    @(141.2400 mm, 82.3200 mm): PTH pad 5 [Net-(OL1-SDA)] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0010 mm)
+    Rule: netclass 'Default'; error
+    @(141.2400 mm, 87.4000 mm): PTH pad 7 [Net-(U1-GPIO0/TX)] of U1
+    @(142.2630 mm, 88.2630 mm): Track [Net-(U1-GPIO3/MOSI)] on F.Cu, length 7.7200 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0518 mm)
+    Rule: netclass 'Default'; error
+    @(126.0000 mm, 79.7800 mm): PTH pad 11 [Net-(U1-GPIO3/MOSI)] of U1
+    @(140.6573 mm, 95.0000 mm): Track [GND] on F.Cu, length 20.3039 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1322 mm)
+    Rule: netclass 'Default'; error
+    @(105.6360 mm, 98.8440 mm): Track [Net-(U1-GPIO29/ADC3/A3)] on B.Cu, length 25.7217 mm
+    @(125.1650 mm, 79.7800 mm): Pad 11 [Net-(U1-GPIO3/MOSI)] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0610 mm)
+    Rule: netclass 'Default'; error
+    @(126.0000 mm, 77.2400 mm): PTH pad 12 [+3V3] of U1
+    @(126.9230 mm, 77.4803 mm): Track [GND] on F.Cu, length 1.9173 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0980 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(160.2020 mm, 96.0419 mm): Track [Net-(D4-K)] on F.Cu, length 4.2469 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0980 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(160.2020 mm, 98.2050 mm): Track [Net-(D4-K)] on F.Cu, length 2.1631 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0980 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(159.2050 mm, 99.2020 mm): Track [Net-(D4-K)] on F.Cu, length 1.4100 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4990 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(159.8010 mm, 96.9611 mm): Track [Net-(D7-K)] on F.Cu, length 1.0778 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4990 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(159.8010 mm, 98.0389 mm): Track [Net-(D7-K)] on F.Cu, length 1.0778 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4990 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(159.0389 mm, 98.8010 mm): Track [Net-(D7-K)] on F.Cu, length 1.0778 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(123.0068 mm, 169.1260 mm): Track [Net-(D1-A)] on F.Cu, length 0.9121 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(120.1017 mm, 169.1260 mm): Track [Net-(D1-A)] on F.Cu, length 2.9051 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(119.0007 mm, 168.0250 mm): Track [Net-(D1-A)] on F.Cu, length 1.5570 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(141.4017 mm, 169.1260 mm): Track [Net-(D7-A)] on B.Cu, length 1.5570 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(147.8568 mm, 169.1260 mm): Track [Net-(D7-A)] on B.Cu, length 6.4550 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(153.8024 mm, 163.1804 mm): Track [Net-(D7-A)] on B.Cu, length 8.4084 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3750 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(122.5507 mm, 168.0250 mm): PTH pad 2 [Net-(D2-A)] of D2
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3750 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(140.3007 mm, 168.0250 mm): PTH pad 2 [Net-(D7-A)] of D7
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3750 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(126.1008 mm, 168.0250 mm): PTH pad 2 [Net-(D3-A)] of D3
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3750 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(143.8508 mm, 168.0250 mm): PTH pad 2 [Net-(D8-A)] of D8
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3750 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(136.7508 mm, 168.0250 mm): PTH pad 2 [Net-(D6-A)] of D6
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3750 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(119.0007 mm, 168.0250 mm): PTH pad 2 [Net-(D1-A)] of D1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3750 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(147.4007 mm, 168.0250 mm): PTH pad 2 [Net-(D9-A)] of D9
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3750 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(133.2007 mm, 168.0250 mm): PTH pad 2 [Net-(D5-A)] of D5
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3750 mm)
+    Rule: board setup constraints edge; error
+    @(102.7000 mm, 69.2000 mm): Rectangle on Edge.Cuts
+    @(129.6507 mm, 168.0250 mm): PTH pad 2 [Net-(D4-A)] of D4
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(143.1906 mm, 83.1830 mm): Track [Net-(U1-GPIO1/RX)] on B.Cu, length 0.3696 mm
+    @(142.0750 mm, 82.3200 mm): Pad 5 [Net-(OL1-SDA)] of U1 on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(126.3003 mm, 78.1030 mm): Track [GND] on F.Cu, length 0.8806 mm
+    @(126.0000 mm, 77.2400 mm): PTH pad 12 [+3V3] of U1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
