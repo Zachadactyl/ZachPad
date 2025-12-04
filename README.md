@@ -30,7 +30,7 @@ Others:
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](https://github.com/user-attachments/assets/8ce0ab16-e0b0-42d0-b748-d4ee08ce5972)    |  ![image](https://github.com/Zachadactyl/ZachPad/blob/main/assets/PCB.png)  | ![image](https://github.com/user-attachments/assets/bcfd98e1-e562-48c3-b617-4d55031ebec4)
+![image](https://github.com/Zachadactyl/ZachPad/blob/main/assets/schematics.png)    |  ![image](https://github.com/Zachadactyl/ZachPad/blob/main/assets/PCB.png)  | ![image](https://github.com/Zachadactyl/ZachPad/blob/main/assets/case.png)
 
 
 
