@@ -18,7 +18,7 @@ BOM:
 - 9x Blank DSA Keycaps (black if available please)
 - 1x XIAO RP2040
 - 1x 0.91" OLED (GND-VCC-SCL-SDA)
-- 1x EC11 Rotary Encoder
+- 1x EC11 Rotary Encoder w/ Switch
 - 4x M3x16 Screws
 - 4x M3x5x4mm Heatset Inserts
 - 9x Through-hole 1N4148 Diodes
